@@ -31,3 +31,16 @@ D:\DEV\TShoping\TShopping.Identity\obj\Debug\net8.0\refint\TShopping.Identity.dl
 D:\DEV\TShoping\TShopping.Identity\obj\Debug\net8.0\TShopping.Identity.pdb
 D:\DEV\TShoping\TShopping.Identity\obj\Debug\net8.0\TShopping.Identity.genruntimeconfig.cache
 D:\DEV\TShoping\TShopping.Identity\obj\Debug\net8.0\ref\TShopping.Identity.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Duende.IdentityServer.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Duende.IdentityServer.Storage.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\IdentityModel.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DEV\TShoping\TShopping.Identity\obj\Debug\net8.0\TShopping.Identity.sourcelink.json
