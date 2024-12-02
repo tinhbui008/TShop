@@ -1,0 +1,6 @@
+@TShopping.Identity_HostAddress = http://localhost:5213
+
+GET {{TShopping.Identity_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
