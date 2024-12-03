@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\DEV\\TShoping\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B103A292-672F-4CEF-AF5F-E700324B122B}|Catalog.API\\Catalog.API.csproj|d:\\dev\\tshoping\\catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B103A292-672F-4CEF-AF5F-E700324B122B}|Catalog.API\\Catalog.API.csproj|solutionrelative:catalog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEB6569-89C0-4B3A-84EB-93EA787A49D4}|TShopping.Identity\\TShopping.Identity.csproj|d:\\dev\\tshoping\\tshopping.identity\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEB6569-89C0-4B3A-84EB-93EA787A49D4}|TShopping.Identity\\TShopping.Identity.csproj|solutionrelative:tshopping.identity\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEB6569-89C0-4B3A-84EB-93EA787A49D4}|TShopping.Identity\\TShopping.Identity.csproj|d:\\dev\\tshoping\\tshopping.identity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FBEB6569-89C0-4B3A-84EB-93EA787A49D4}|TShopping.Identity\\TShopping.Identity.csproj|solutionrelative:tshopping.identity\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBEB6569-89C0-4B3A-84EB-93EA787A49D4}|TShopping.Identity\\TShopping.Identity.csproj|d:\\dev\\tshoping\\tshopping.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBEB6569-89C0-4B3A-84EB-93EA787A49D4}|TShopping.Identity\\TShopping.Identity.csproj|solutionrelative:tshopping.identity\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 157,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -24,8 +41,56 @@
               "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV\\TShoping\\Catalog.API\\Program.cs",
+              "RelativeDocumentMoniker": "Catalog.API\\Program.cs",
+              "ToolTip": "D:\\DEV\\TShoping\\Catalog.API\\Program.cs",
+              "RelativeToolTip": "Catalog.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T09:10:16.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\DEV\\TShoping\\TShopping.Identity\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TShopping.Identity\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\DEV\\TShoping\\TShopping.Identity\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TShopping.Identity\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T09:03:51.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Config.cs",
+              "DocumentMoniker": "D:\\DEV\\TShoping\\TShopping.Identity\\Config.cs",
+              "RelativeDocumentMoniker": "TShopping.Identity\\Config.cs",
+              "ToolTip": "D:\\DEV\\TShoping\\TShopping.Identity\\Config.cs",
+              "RelativeToolTip": "TShopping.Identity\\Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:50:43.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\DEV\\TShoping\\TShopping.Identity\\Program.cs",
+              "RelativeDocumentMoniker": "TShopping.Identity\\Program.cs",
+              "ToolTip": "D:\\DEV\\TShoping\\TShopping.Identity\\Program.cs",
+              "RelativeToolTip": "TShopping.Identity\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T08:50:22.157Z",
+              "EditorCaption": ""
             }
           ]
         }

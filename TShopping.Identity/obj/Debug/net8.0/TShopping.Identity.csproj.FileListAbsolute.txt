@@ -44,3 +44,4 @@ D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.IdentityModel.Prot
 D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\DEV\TShoping\TShopping.Identity\obj\Debug\net8.0\TShopping.Identity.sourcelink.json
+D:\DEV\TShoping\TShopping.Identity\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll

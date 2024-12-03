@@ -1,2 +1,5 @@
 /TShopping.Identity/obj
 /TShopping.Identity/bin
+/Catalog.API/bin
+/Catalog.API/obj
+/.vs

@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2ie49AUCdn4=",
+  "dgSpecHash": "q96dRGrvNOE=",
   "success": true,
   "projectFilePath": "D:\\DEV\\TShoping\\TShopping.Identity\\TShopping.Identity.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tinh-hihi\\.nuget\\packages\\duende.identityserver\\7.0.8\\duende.identityserver.7.0.8.nupkg.sha512",
     "C:\\Users\\Tinh-hihi\\.nuget\\packages\\duende.identityserver.storage\\7.0.8\\duende.identityserver.storage.7.0.8.nupkg.sha512",
     "C:\\Users\\Tinh-hihi\\.nuget\\packages\\identitymodel\\6.2.0\\identitymodel.6.2.0.nupkg.sha512",
+    "C:\\Users\\Tinh-hihi\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.11\\microsoft.aspnetcore.authentication.jwtbearer.8.0.11.nupkg.sha512",
     "C:\\Users\\Tinh-hihi\\.nuget\\packages\\microsoft.aspnetcore.authentication.openidconnect\\8.0.3\\microsoft.aspnetcore.authentication.openidconnect.8.0.3.nupkg.sha512",
     "C:\\Users\\Tinh-hihi\\.nuget\\packages\\microsoft.aspnetcore.dataprotection.abstractions\\8.0.3\\microsoft.aspnetcore.dataprotection.abstractions.8.0.3.nupkg.sha512",
     "C:\\Users\\Tinh-hihi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
