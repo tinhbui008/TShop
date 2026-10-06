@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TShop.Identity.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bd2d4acf298d2bacc1dbe36e8e63068aa3aab427")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+847d8af3f207a3698630b647395ea364c876e149")]
 [assembly: System.Reflection.AssemblyProductAttribute("TShop.Identity.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TShop.Identity.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
