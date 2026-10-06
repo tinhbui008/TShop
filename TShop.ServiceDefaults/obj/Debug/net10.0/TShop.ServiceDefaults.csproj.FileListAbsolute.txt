@@ -1,0 +1,12 @@
+E:\Dev\TShop\TShop.ServiceDefaults\bin\Debug\net10.0\TShop.ServiceDefaults.deps.json
+E:\Dev\TShop\TShop.ServiceDefaults\bin\Debug\net10.0\TShop.ServiceDefaults.dll
+E:\Dev\TShop\TShop.ServiceDefaults\bin\Debug\net10.0\TShop.ServiceDefaults.pdb
+E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\TShop.ServiceDefaults.csproj.AssemblyReference.cache
+E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\TShop.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\TShop.ServiceDefaults.AssemblyInfoInputs.cache
+E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\TShop.ServiceDefaults.AssemblyInfo.cs
+E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\TShop.ServiceDefaults.csproj.CoreCompileInputs.cache
+E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\TShop.ServiceDefaults.dll
+E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\refint\TShop.ServiceDefaults.dll
+E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\TShop.ServiceDefaults.pdb
+E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\ref\TShop.ServiceDefaults.dll

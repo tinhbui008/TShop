@@ -1,0 +1,21 @@
+<Project Sdk="Aspire.AppHost.Sdk/13.6.0">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net10.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+        <AspireUseCliBundle>true</AspireUseCliBundle>
+        <UserSecretsId>4245ca2d-25f3-403a-9aac-8f39b73d88ee</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Aspire.Hosting.PostgreSQL" Version="13.5.3" />
+    </ItemGroup>
+
+    <ItemGroup>
+        <ProjectReference Include="..\TShop.Identity.API\TShop.Identity.API.csproj" />
+        <ProjectReference Include="..\TShop.Gateway\TShop.Gateway.csproj" />
+    </ItemGroup>
+
+</Project>
