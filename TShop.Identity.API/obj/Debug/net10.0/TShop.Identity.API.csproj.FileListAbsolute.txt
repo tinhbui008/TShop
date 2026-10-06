@@ -169,3 +169,4 @@ E:\Dev\TShop\TShop.Identity.API\bin\Debug\net10.0\Polly.RateLimiting.dll
 E:\Dev\TShop\TShop.Identity.API\bin\Debug\net10.0\StackExchange.Redis.dll
 E:\Dev\TShop\TShop.Identity.API\bin\Debug\net10.0\TShop.ServiceDefaults.dll
 E:\Dev\TShop\TShop.Identity.API\bin\Debug\net10.0\TShop.ServiceDefaults.pdb
+E:\Dev\TShop\TShop.Identity.API\obj\Debug\net10.0\TShop.Identity.API.sourcelink.json

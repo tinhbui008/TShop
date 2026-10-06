@@ -10,3 +10,4 @@ E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\TShop.ServiceDefaults.dll
 E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\refint\TShop.ServiceDefaults.dll
 E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\TShop.ServiceDefaults.pdb
 E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\ref\TShop.ServiceDefaults.dll
+E:\Dev\TShop\TShop.ServiceDefaults\obj\Debug\net10.0\TShop.ServiceDefaults.sourcelink.json

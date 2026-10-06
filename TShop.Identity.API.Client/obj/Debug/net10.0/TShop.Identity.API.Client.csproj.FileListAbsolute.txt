@@ -10,3 +10,4 @@ E:\Dev\TShop\TShop.Identity.API.Client\obj\Debug\net10.0\TShop.Identity.API.Clie
 E:\Dev\TShop\TShop.Identity.API.Client\obj\Debug\net10.0\refint\TShop.Identity.API.Client.dll
 E:\Dev\TShop\TShop.Identity.API.Client\obj\Debug\net10.0\TShop.Identity.API.Client.pdb
 E:\Dev\TShop\TShop.Identity.API.Client\obj\Debug\net10.0\ref\TShop.Identity.API.Client.dll
+E:\Dev\TShop\TShop.Identity.API.Client\obj\Debug\net10.0\TShop.Identity.API.Client.sourcelink.json

@@ -5,6 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 using TShop.Identity.API.Client;
 using TShop.Identity.API.Models;
 using TShop.Identity.API.Services;
+using TShop.ServiceDefaults;
 
 namespace TShop.Identity.API.Endpoints;
 using Microsoft.EntityFrameworkCore;
@@ -14,7 +15,7 @@ public static class IdentityEndpoints
     public static IEndpointRouteBuilder MapIdentityEndpoints(this IEndpointRouteBuilder app)
     {
         // v11: routes resolved as /api/v{version}/identity/... — see ApiVersioningExtensions.cs.
-        var group = app.MapGroup("identity");
+        var group = app.MapApiV1Group("identity");
 
         MapAuthEndpoints(group);
         MapPasskeyEndpoints(group);

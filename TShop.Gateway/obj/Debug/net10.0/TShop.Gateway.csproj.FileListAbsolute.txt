@@ -74,3 +74,4 @@ E:\Dev\TShop\TShop.Gateway\bin\Debug\net10.0\TShop.ServiceDefaults.pdb
 E:\Dev\TShop\TShop.Gateway\obj\Debug\net10.0\TShop.Gateway.csproj.AssemblyReference.cache
 E:\Dev\TShop\TShop.Gateway\obj\Debug\net10.0\TShop.Gateway.MvcApplicationPartsAssemblyInfo.cs
 E:\Dev\TShop\TShop.Gateway\obj\Debug\net10.0\TShop.Ga.F9122CEB.Up2Date
+E:\Dev\TShop\TShop.Gateway\obj\Debug\net10.0\TShop.Gateway.sourcelink.json

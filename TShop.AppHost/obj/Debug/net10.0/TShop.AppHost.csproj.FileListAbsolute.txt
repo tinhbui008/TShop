@@ -128,3 +128,4 @@ E:\Dev\TShop\TShop.AppHost\obj\Debug\net10.0\TShop.AppHost.genruntimeconfig.cach
 E:\Dev\TShop\TShop.AppHost\obj\Debug\net10.0\ref\TShop.AppHost.dll
 E:\Dev\TShop\TShop.AppHost\obj\Debug\net10.0\Aspire\references\TShop_Identity_API.ProjectMetadata.g.cs
 E:\Dev\TShop\TShop.AppHost\obj\Debug\net10.0\Aspire\references\TShop_Gateway.ProjectMetadata.g.cs
+E:\Dev\TShop\TShop.AppHost\obj\Debug\net10.0\TShop.AppHost.sourcelink.json
