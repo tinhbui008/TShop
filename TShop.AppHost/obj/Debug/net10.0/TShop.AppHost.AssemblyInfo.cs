@@ -22,7 +22,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TShop.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+847d8af3f207a3698630b647395ea364c876e149")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1834bb7b207cf0e2328d751bccc59ec182900e86")]
 [assembly: System.Reflection.AssemblyProductAttribute("TShop.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TShop.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
